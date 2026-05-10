@@ -66,4 +66,4 @@ The dataset contains visual attention-related video frames used for training and
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/vision-based-mind-wandering-detection.git
+[git clone https://github.com/your-username/vision-based-mind-wandering-detection.git](https://github.com/nidhi713/Vision-based-mind-wandering-detection-)
