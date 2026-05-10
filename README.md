@@ -58,9 +58,7 @@ Main components:
 ---
 
 ## Dataset
-The dataset contains visual attention-related image/video frames used for training and testing.
-
-(Add dataset source or drive link here)
+The dataset contains visual attention-related video frames used for training and testing.
 
 ---
 
