@@ -26,8 +26,7 @@ This project can be useful in:
 ## Technologies Used
 - Python
 - OpenCV
-- TensorFlow
-- Keras
+- PyTorch
 - NumPy
 - Pandas
 - Matplotlib
